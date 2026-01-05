@@ -1,0 +1,19 @@
+@import 'normalize.css';
+
+:root {
+  --primary-color: #4CAF50;
+  --secondary-color: #ff5722;
+  --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --background-color: #f5f5f5;
+  --text-color: #333333;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family);
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+html{
+    
+}
